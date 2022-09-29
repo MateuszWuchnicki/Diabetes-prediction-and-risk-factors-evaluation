@@ -11,12 +11,19 @@ https://www.cdc.gov/brfss/annual_data/2019/pdf/codebook19_llcp-v2-508.HTML
 ### Relevant Research Paper using BRFSS for Diabetes ML: 
 https://www.cdc.gov/pcd/issues/2019/19_0109.htm
 
+### The raw data from 2019 and their description can be found here:
+https://www.cdc.gov/brfss/annual_data/annual_2019.html
+
+****
+
 **A detailed description of selected features with the division into dependent and independent variables can be found in the notebook.**
 
 ****
+
 ### Purpose
 
 The main purpose of this code notebook is to answer the question:
 
 * **Can survey questions from the BRFSS provide accurate predictions of whether an individual has diabetes?**
+
 ****
